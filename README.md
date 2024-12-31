@@ -1,4 +1,4 @@
-# Stylescope Mobile Game Website - Under construction!
+# Stylescope Mobile Game Website - Under construction! Bolt
 
 **Stylescope Mobile Game Website** is a responsive and visually captivating website designed to promote the mobile game **Stylescope**. The project highlights a sleek design, interactive features, and a user-friendly interface to attract and engage visitors.
 
